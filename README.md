@@ -14,7 +14,7 @@ Get Power BI desktop by either installing as an app from the Microsoft Store or 
 - https://docs.microsoft.com/en-us/power-bi/fundamentals/desktop-get-the-desktop 
 - https://aka.ms/pbidesktop (Microsoft Store)
  
-# How to
-Open the pbix file with Power BI desktop and Refresh to get the latest data,  dates may have passed and updates may have been released.
+# Refresh data
+Open the pbix file with Power BI desktop and Refresh to get the latest data.
 
 ![Refresh Power BI desktop file](https://github.com/ingebeumer/PLC-SQLServer/blob/main/images/Refresh%20Power%20BI%20desktop%20file.png)
