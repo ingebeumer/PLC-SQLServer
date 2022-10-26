@@ -5,14 +5,14 @@ Power BI report on the Product Life Cycle of SQL Server. The report provides vis
  
 # Data source
 The report is based on following data sources.
-- https://docs.microsoft.com/en-us/lifecycle/products/?products=sql-server
-- https://docs.microsoft.com/en-us/troubleshoot/sql/general/determine-version-edition-update-level
 - https://aka.ms/sqlserverbuilds
+- https://learn.microsoft.com/en-us/lifecycle/products/?products=sql-server
+- https://learn.microsoft.com/en-us/troubleshoot/sql/general/determine-version-edition-update-level
  
 # Requirements
 Get Power BI desktop either by installing as an app from the Microsoft Store or downloading directly.
 - https://aka.ms/pbidesktop (Microsoft Store)
-- https://docs.microsoft.com/en-us/power-bi/fundamentals/desktop-get-the-desktop 
+- https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-get-the-desktop 
  
 # Refresh data
 Open the pbix file with Power BI desktop. Get the latest data by refreshing all visuals in this report through Home + Refresh.
