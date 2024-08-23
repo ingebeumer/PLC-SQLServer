@@ -4,7 +4,7 @@ Article • 2 minutes to read • [contributors](https://github.com/ingebeumer/P
 
 Power BI report on the Product Life Cycle of SQL Server. The report provides visualized insights on lifecycle information to support you in managing your SQL Server environments and plan for the future, as well as a list of builds and updates that are available for different versions of SQL Server. All in the report is based on publicly available data.
 
-> ![Preview support phase.](https://github.com/ingebeumer/PLC-SQLServer/assets/40343254/b726d778-8b64-49a9-8645-9728f45b51fc)
+> ![Preview support phase.](https://github.com/user-attachments/assets/3ecc641c-1f31-4124-af7c-9bab353f96f6)
 
 
 ## Data source
